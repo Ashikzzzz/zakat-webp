@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.banner{
+    background-image: url(img/pic1.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+}
+.banner h1{
+    font-weight: 600;
+    font-size: 40px;
+    color: #FFFFFF;
+}
+.finish{
+    padding-top: 250px;
+    padding-left: 250px;
+}
+.evil{
+    padding-left:250px ;
+}
+.banner p{
+    text-align: center;
+    color: #FFFFFF;
+}
+.donate-now{
+    margin-left: 260px;
+}
+.donate-button{
+    padding: 15px 40px;
+    background-color: #EF233C;
+    border: none;
+    border-radius: 10px;
+}
